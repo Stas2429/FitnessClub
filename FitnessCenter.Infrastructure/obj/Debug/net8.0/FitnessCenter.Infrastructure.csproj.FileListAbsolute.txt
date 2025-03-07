@@ -1,0 +1,17 @@
+E:\ЭФ 301\Стас\FitnessCenter\FitnessCenter.Infrastructure\bin\Debug\net8.0\FitnessCenter.Infrastructure.deps.json
+E:\ЭФ 301\Стас\FitnessCenter\FitnessCenter.Infrastructure\bin\Debug\net8.0\FitnessCenter.Infrastructure.dll
+E:\ЭФ 301\Стас\FitnessCenter\FitnessCenter.Infrastructure\bin\Debug\net8.0\FitnessCenter.Infrastructure.pdb
+E:\ЭФ 301\Стас\FitnessCenter\FitnessCenter.Infrastructure\bin\Debug\net8.0\FitnessCenter.Data.dll
+E:\ЭФ 301\Стас\FitnessCenter\FitnessCenter.Infrastructure\bin\Debug\net8.0\FitnessCenter.Data.pdb
+E:\ЭФ 301\Стас\FitnessCenter\FitnessCenter.Infrastructure\obj\Debug\net8.0\FitnessCenter.Infrastructure.csproj.AssemblyReference.cache
+E:\ЭФ 301\Стас\FitnessCenter\FitnessCenter.Infrastructure\obj\Debug\net8.0\FitnessCenter.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\ЭФ 301\Стас\FitnessCenter\FitnessCenter.Infrastructure\obj\Debug\net8.0\FitnessCenter.Infrastructure.AssemblyInfoInputs.cache
+E:\ЭФ 301\Стас\FitnessCenter\FitnessCenter.Infrastructure\obj\Debug\net8.0\FitnessCenter.Infrastructure.AssemblyInfo.cs
+E:\ЭФ 301\Стас\FitnessCenter\FitnessCenter.Infrastructure\obj\Debug\net8.0\FitnessCenter.Infrastructure.csproj.CoreCompileInputs.cache
+E:\ЭФ 301\Стас\FitnessCenter\FitnessCenter.Infrastructure\obj\Debug\net8.0\FitnessC.082030EB.Up2Date
+E:\ЭФ 301\Стас\FitnessCenter\FitnessCenter.Infrastructure\obj\Debug\net8.0\FitnessCenter.Infrastructure.dll
+E:\ЭФ 301\Стас\FitnessCenter\FitnessCenter.Infrastructure\obj\Debug\net8.0\refint\FitnessCenter.Infrastructure.dll
+E:\ЭФ 301\Стас\FitnessCenter\FitnessCenter.Infrastructure\obj\Debug\net8.0\FitnessCenter.Infrastructure.pdb
+E:\ЭФ 301\Стас\FitnessCenter\FitnessCenter.Infrastructure\obj\Debug\net8.0\ref\FitnessCenter.Infrastructure.dll
+E:\ЭФ 301\Стас\FitnessCenter\FitnessCenter.Infrastructure\bin\Debug\net8.0\FitnessCenter.Infrastructure.runtimeconfig.json
+E:\ЭФ 301\Стас\FitnessCenter\FitnessCenter.Infrastructure\obj\Debug\net8.0\FitnessCenter.Infrastructure.genruntimeconfig.cache

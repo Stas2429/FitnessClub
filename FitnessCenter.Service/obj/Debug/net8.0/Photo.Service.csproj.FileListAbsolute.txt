@@ -1,0 +1,5 @@
+E:\ЭФ 301\Вика\Photos\Photo.Service\obj\Debug\net8.0\Photo.Service.csproj.AssemblyReference.cache
+E:\ЭФ 301\Вика\Photos\Photo.Service\obj\Debug\net8.0\Photo.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\ЭФ 301\Вика\Photos\Photo.Service\obj\Debug\net8.0\Photo.Service.AssemblyInfoInputs.cache
+E:\ЭФ 301\Вика\Photos\Photo.Service\obj\Debug\net8.0\Photo.Service.AssemblyInfo.cs
+E:\ЭФ 301\Вика\Photos\Photo.Service\obj\Debug\net8.0\Photo.Service.csproj.CoreCompileInputs.cache
