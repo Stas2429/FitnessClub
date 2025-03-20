@@ -2,13 +2,9 @@
 
 public class Client : BaseModel
 {
-    public Client(string name, string phone)
-    {
-        Name = name;
-        Phone = phone;
-    }
-
-    public string Name { get; set; }  
-    public string Phone { get; set; } 
-    public List <ClassRegistration> ClassRegistration { get; set; }
+    public string Name { get; set; }
+    public string Surname { get; set; }
+    public string Patronymic { get; set; }
+    public DateTime DateOfBirth { get; set; }
+    public string Gender { get; set; }
 }

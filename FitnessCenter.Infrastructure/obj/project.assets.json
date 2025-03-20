@@ -2185,11 +2185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\ЭФ 301\\Стас\\FitnessCenter\\FitnessCenter.Infrastructure\\FitnessCenter.Infrastructure.csproj",
+      "projectUniqueName": "E:\\EF_301\\Stas\\FitnessCenter\\FitnessCenter.Infrastructure\\FitnessCenter.Infrastructure.csproj",
       "projectName": "FitnessCenter.Infrastructure",
-      "projectPath": "E:\\ЭФ 301\\Стас\\FitnessCenter\\FitnessCenter.Infrastructure\\FitnessCenter.Infrastructure.csproj",
+      "projectPath": "E:\\EF_301\\Stas\\FitnessCenter\\FitnessCenter.Infrastructure\\FitnessCenter.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Stas\\.nuget\\packages\\",
-      "outputPath": "E:\\ЭФ 301\\Стас\\FitnessCenter\\FitnessCenter.Infrastructure\\obj\\",
+      "outputPath": "E:\\EF_301\\Stas\\FitnessCenter\\FitnessCenter.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Stas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2207,11 +2207,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\ЭФ 301\\Стас\\FitnessCenter\\FitnessCenter.Data\\FitnessCenter.Data.csproj": {
-              "projectPath": "E:\\ЭФ 301\\Стас\\FitnessCenter\\FitnessCenter.Data\\FitnessCenter.Data.csproj"
+            "E:\\EF_301\\Stas\\FitnessCenter\\FitnessCenter.Data\\FitnessCenter.Data.csproj": {
+              "projectPath": "E:\\EF_301\\Stas\\FitnessCenter\\FitnessCenter.Data\\FitnessCenter.Data.csproj"
             },
-            "E:\\ЭФ 301\\Стас\\FitnessCenter\\FitnessCenter.Service\\FitnessCenter.Service.csproj": {
-              "projectPath": "E:\\ЭФ 301\\Стас\\FitnessCenter\\FitnessCenter.Service\\FitnessCenter.Service.csproj"
+            "E:\\EF_301\\Stas\\FitnessCenter\\FitnessCenter.Service\\FitnessCenter.Service.csproj": {
+              "projectPath": "E:\\EF_301\\Stas\\FitnessCenter\\FitnessCenter.Service\\FitnessCenter.Service.csproj"
             }
           }
         }

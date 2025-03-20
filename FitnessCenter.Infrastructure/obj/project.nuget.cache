@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+kZYsspz/6g=",
+  "dgSpecHash": "9nZsGJ2zACM=",
   "success": true,
-  "projectFilePath": "E:\\ЭФ 301\\Стас\\FitnessCenter\\FitnessCenter.Infrastructure\\FitnessCenter.Infrastructure.csproj",
+  "projectFilePath": "E:\\EF_301\\Stas\\FitnessCenter\\FitnessCenter.Infrastructure\\FitnessCenter.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Stas\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Stas\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

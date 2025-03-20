@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HXX9C7WRk8s=",
+  "dgSpecHash": "g7t7CvTiSoM=",
   "success": true,
-  "projectFilePath": "E:\\ЭФ 301\\Стас\\FitnessCenter\\FitnessCenter.Service\\FitnessCenter.Service.csproj",
+  "projectFilePath": "E:\\EF_301\\Stas\\FitnessCenter\\FitnessCenter.Service\\FitnessCenter.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Stas\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Stas\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.10\\microsoft.entityframeworkcore.8.0.10.nupkg.sha512",

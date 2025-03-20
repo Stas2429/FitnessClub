@@ -1,11 +1,6 @@
 ﻿namespace FitnessCenter.Data;
 
-public enum Subscription
+public class Subscription : BaseModel
 {
-    Disposable,
-    Children,
-    Morning,
-    Student,
-    Unlimited,
-    Vip
+    public string Name { get; set; }
 }
