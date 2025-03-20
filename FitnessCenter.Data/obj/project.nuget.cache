@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U2YiomvA+/k=",
+  "dgSpecHash": "PXhHTHhQNLE=",
   "success": true,
-  "projectFilePath": "E:\\ЭФ 301\\Стас\\FitnessCenter\\FitnessCenter.Data\\FitnessCenter.Data.csproj",
+  "projectFilePath": "E:\\EF_301\\Stas\\FitnessCenter\\FitnessCenter.Data\\FitnessCenter.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Stas\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.10\\microsoft.entityframeworkcore.8.0.10.nupkg.sha512",
     "C:\\Users\\Stas\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.10\\microsoft.entityframeworkcore.abstractions.8.0.10.nupkg.sha512",
