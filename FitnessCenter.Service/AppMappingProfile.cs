@@ -10,12 +10,8 @@ public class AppMappingProfile:Profile
     {			
         CreateMap<Class, ClassesRequest>();
         CreateMap<Class, ClassesRequest>().ReverseMap();
-        CreateMap<ClassRegistration, ClassRegistrationRequest>();
-        CreateMap<ClassRegistration, ClassRegistrationRequest>().ReverseMap();
         CreateMap<Client, ClientsRequest>();
         CreateMap<Client, ClientsRequest>().ReverseMap();
-        CreateMap<Membership, MembershipsRequest>();
-        CreateMap<Membership, MembershipsRequest>().ReverseMap();
         CreateMap<Schedule, ScheduleRequest>();
         CreateMap<Schedule, ScheduleRequest>().ReverseMap();
         CreateMap<Trainer, TrainersRequest>();

@@ -7,9 +7,7 @@ namespace ClassLibrary;
 public class ApplicationContext:DbContext
 {
     public DbSet<Class> Classes { get; set; }
-    public DbSet<ClassRegistration> ClassRegistrations { get; set; }
     public DbSet<Client> Clients { get; set; }
-    public DbSet<Membership> Memberships { get; set; }
     public DbSet<Schedule> Schedule { get; set; }
     public DbSet<Trainer> Trainers { get; set; }
     
