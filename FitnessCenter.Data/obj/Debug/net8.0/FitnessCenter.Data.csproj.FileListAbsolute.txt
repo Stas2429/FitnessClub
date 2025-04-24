@@ -10,3 +10,16 @@ E:\ЭФ 301\Стас\FitnessCenter\FitnessCenter.Data\obj\Debug\net8.0\FitnessCe
 E:\ЭФ 301\Стас\FitnessCenter\FitnessCenter.Data\obj\Debug\net8.0\refint\FitnessCenter.Data.dll
 E:\ЭФ 301\Стас\FitnessCenter\FitnessCenter.Data\obj\Debug\net8.0\FitnessCenter.Data.pdb
 E:\ЭФ 301\Стас\FitnessCenter\FitnessCenter.Data\obj\Debug\net8.0\ref\FitnessCenter.Data.dll
+E:\EF_301\Stas\FitnessCenter\FitnessCenter.Data\bin\Debug\net8.0\FitnessCenter.Data.deps.json
+E:\EF_301\Stas\FitnessCenter\FitnessCenter.Data\bin\Debug\net8.0\FitnessCenter.Data.dll
+E:\EF_301\Stas\FitnessCenter\FitnessCenter.Data\bin\Debug\net8.0\FitnessCenter.Data.pdb
+E:\EF_301\Stas\FitnessCenter\FitnessCenter.Data\obj\Debug\net8.0\FitnessCenter.Data.csproj.AssemblyReference.cache
+E:\EF_301\Stas\FitnessCenter\FitnessCenter.Data\obj\Debug\net8.0\FitnessCenter.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\EF_301\Stas\FitnessCenter\FitnessCenter.Data\obj\Debug\net8.0\FitnessCenter.Data.AssemblyInfoInputs.cache
+E:\EF_301\Stas\FitnessCenter\FitnessCenter.Data\obj\Debug\net8.0\FitnessCenter.Data.AssemblyInfo.cs
+E:\EF_301\Stas\FitnessCenter\FitnessCenter.Data\obj\Debug\net8.0\FitnessCenter.Data.csproj.CoreCompileInputs.cache
+E:\EF_301\Stas\FitnessCenter\FitnessCenter.Data\obj\Debug\net8.0\FitnessCenter.Data.sourcelink.json
+E:\EF_301\Stas\FitnessCenter\FitnessCenter.Data\obj\Debug\net8.0\FitnessCenter.Data.dll
+E:\EF_301\Stas\FitnessCenter\FitnessCenter.Data\obj\Debug\net8.0\refint\FitnessCenter.Data.dll
+E:\EF_301\Stas\FitnessCenter\FitnessCenter.Data\obj\Debug\net8.0\FitnessCenter.Data.pdb
+E:\EF_301\Stas\FitnessCenter\FitnessCenter.Data\obj\Debug\net8.0\ref\FitnessCenter.Data.dll

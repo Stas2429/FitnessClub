@@ -15,3 +15,23 @@ E:\ЭФ 301\Стас\FitnessCenter\FitnessCenter.Infrastructure\obj\Debug\net8.0
 E:\ЭФ 301\Стас\FitnessCenter\FitnessCenter.Infrastructure\obj\Debug\net8.0\ref\FitnessCenter.Infrastructure.dll
 E:\ЭФ 301\Стас\FitnessCenter\FitnessCenter.Infrastructure\bin\Debug\net8.0\FitnessCenter.Infrastructure.runtimeconfig.json
 E:\ЭФ 301\Стас\FitnessCenter\FitnessCenter.Infrastructure\obj\Debug\net8.0\FitnessCenter.Infrastructure.genruntimeconfig.cache
+E:\EF_301\Stas\FitnessCenter\FitnessCenter.Infrastructure\bin\Debug\net8.0\FitnessCenter.Infrastructure.deps.json
+E:\EF_301\Stas\FitnessCenter\FitnessCenter.Infrastructure\bin\Debug\net8.0\FitnessCenter.Infrastructure.runtimeconfig.json
+E:\EF_301\Stas\FitnessCenter\FitnessCenter.Infrastructure\bin\Debug\net8.0\FitnessCenter.Infrastructure.dll
+E:\EF_301\Stas\FitnessCenter\FitnessCenter.Infrastructure\bin\Debug\net8.0\FitnessCenter.Infrastructure.pdb
+E:\EF_301\Stas\FitnessCenter\FitnessCenter.Infrastructure\bin\Debug\net8.0\FitnessCenter.Data.dll
+E:\EF_301\Stas\FitnessCenter\FitnessCenter.Infrastructure\bin\Debug\net8.0\FitnessCenter.Service.dll
+E:\EF_301\Stas\FitnessCenter\FitnessCenter.Infrastructure\bin\Debug\net8.0\FitnessCenter.Data.pdb
+E:\EF_301\Stas\FitnessCenter\FitnessCenter.Infrastructure\bin\Debug\net8.0\FitnessCenter.Service.pdb
+E:\EF_301\Stas\FitnessCenter\FitnessCenter.Infrastructure\obj\Debug\net8.0\FitnessCenter.Infrastructure.csproj.AssemblyReference.cache
+E:\EF_301\Stas\FitnessCenter\FitnessCenter.Infrastructure\obj\Debug\net8.0\FitnessCenter.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\EF_301\Stas\FitnessCenter\FitnessCenter.Infrastructure\obj\Debug\net8.0\FitnessCenter.Infrastructure.AssemblyInfoInputs.cache
+E:\EF_301\Stas\FitnessCenter\FitnessCenter.Infrastructure\obj\Debug\net8.0\FitnessCenter.Infrastructure.AssemblyInfo.cs
+E:\EF_301\Stas\FitnessCenter\FitnessCenter.Infrastructure\obj\Debug\net8.0\FitnessCenter.Infrastructure.csproj.CoreCompileInputs.cache
+E:\EF_301\Stas\FitnessCenter\FitnessCenter.Infrastructure\obj\Debug\net8.0\FitnessCenter.Infrastructure.sourcelink.json
+E:\EF_301\Stas\FitnessCenter\FitnessCenter.Infrastructure\obj\Debug\net8.0\FitnessC.082030EB.Up2Date
+E:\EF_301\Stas\FitnessCenter\FitnessCenter.Infrastructure\obj\Debug\net8.0\FitnessCenter.Infrastructure.dll
+E:\EF_301\Stas\FitnessCenter\FitnessCenter.Infrastructure\obj\Debug\net8.0\refint\FitnessCenter.Infrastructure.dll
+E:\EF_301\Stas\FitnessCenter\FitnessCenter.Infrastructure\obj\Debug\net8.0\FitnessCenter.Infrastructure.pdb
+E:\EF_301\Stas\FitnessCenter\FitnessCenter.Infrastructure\obj\Debug\net8.0\FitnessCenter.Infrastructure.genruntimeconfig.cache
+E:\EF_301\Stas\FitnessCenter\FitnessCenter.Infrastructure\obj\Debug\net8.0\ref\FitnessCenter.Infrastructure.dll

@@ -8,7 +8,5 @@ public class ClientMap
     {
         builder.HasKey(t => t.Id);
         builder.Property(t => t.Name).IsRequired();
-        builder.Property(t => t.Phone).IsRequired();
-        builder.HasMany(t => t.ClassRegistration).WithOne(u => u.Client);
     }
 }
