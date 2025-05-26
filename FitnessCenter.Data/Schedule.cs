@@ -1,8 +1,13 @@
-﻿namespace FitnessCenter.Data;
+﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+namespace FitnessCenter.Data;
 
+[Table("Schedules")]
 public class Schedule : BaseModel
 {
-    public DateTime Date { get; set; }
-    public DateTime DateBegin { get; set; }
-    public DateTime DateEnd { get; set; }
+    [Required] public DateTime Date { get; set; }
+    [Required] public DateTime DateBegin { get; set; }
+    [Required] public DateTime DateEnd { get; set; }
+
+    public ICollection<ScheduleReserv> ScheduleReservs { get; set; }
 }

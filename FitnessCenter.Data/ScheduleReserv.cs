@@ -1,9 +1,13 @@
-﻿namespace FitnessCenter.Data;
+﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+namespace FitnessCenter.Data;
 
+[Table("ScheduleReservs")]
 public class ScheduleReserv
 {
-    public int ScheduleId { get; set; }
-    public Schedule Schedule { get; set; }
-    public int ReservId { get; set; }
-    public Reserv Reserv { get; set; }
+    [Required] public Guid ScheduleId { get; set; }
+    [ForeignKey("ScheduleId")] public Schedule Schedule { get; set; }
+
+    [Required] public Guid ReservId { get; set; }
+    [ForeignKey("ReservId")] public Reserv Reserv { get; set; }
 }

@@ -4,14 +4,14 @@ using FitnessCenter.Data;
 using FitnessCenter.Service.Interface;
 using FitnessCenter.Service.ModelRequest;
 
-public class BaseService<TEntityDb,TEntityRequest,TEntityProvaider>:IBaseService<TEntityDb,TEntityRequest> 
+public class BaseService<TEntityDb,TEntityRequest,TEntityProvider>:IBaseService<TEntityDb,TEntityRequest> 
 where TEntityDb:BaseModel
 where TEntityRequest: BaseModelRequest
-where TEntityProvaider:IBaseProvider<TEntityDb>
+where TEntityProvider:IBaseProvider<TEntityDb>
 {
     private readonly IMapper _mapper;
-    private TEntityProvaider _provider;
-    public BaseService(TEntityProvaider provider,IMapper mapper)
+    private TEntityProvider _provider;
+    public BaseService(TEntityProvider provider,IMapper mapper)
     {
         _provider = provider;
         _mapper = mapper;

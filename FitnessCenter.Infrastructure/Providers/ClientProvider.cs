@@ -2,6 +2,7 @@
 using FitnessCenter.Data;
 using FitnessCenter.Service.Interface;
 using Microsoft.EntityFrameworkCore;
+using FitnessCenter.Infrastructure;
 
 namespace ClassLibrary.Providers;
 
