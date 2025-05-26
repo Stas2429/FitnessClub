@@ -1,15 +1,23 @@
-﻿namespace FitnessCenter.Data;
+﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+
+namespace FitnessCenter.Data;
 
 public abstract class BaseModel
 {
-    public Guid Id { get; set; }  
-    public DateTime DataCreate { get; set; }  
+    [Key]
+    public Guid Id { get; set; }
+
+    [Required]
+    public DateTime DataCreate { get; set; }
+
+    [Required]
     public DateTime DataUpdate { get; set; }
 
-    public BaseModel()
+    protected BaseModel()
     {
         Id = Guid.NewGuid();
         DataCreate = DateTime.Now;
-        DataUpdate = DateTime.Now;  
+        DataUpdate = DateTime.Now;
     }
 }
