@@ -3,7 +3,7 @@
 namespace FitnessCenter.Web.Controllers;
 
 [ApiController]
-[Route("webapi/[controller]")]
+[Route("api/[controller]")]
 
 public class WebApiController : ControllerBase
 {

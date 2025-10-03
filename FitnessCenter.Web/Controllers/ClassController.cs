@@ -8,9 +8,8 @@ namespace FitnessCenter.Web.Controllers;
 /// <summary>
 /// Контроллер для управления занятиями (Class).
 /// </summary>
-[ApiController]
-[Route("api/[controller]")]
-public class ClassController : ControllerBase
+
+public class ClassController : WebApiController
 {
     private readonly IClassService _classService;
     private readonly ILogger<ClassController> _logger;
