@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\EF_301\\Stas\\FitnessCenter\\OA.Repo\\OA.Repo.csproj": {}
+    "C:\\Users\\PGU\\RiderProjects\\FitnessClub\\OA.Repo\\OA.Repo.csproj": {}
   },
   "projects": {
-    "E:\\EF_301\\Stas\\FitnessCenter\\OA.Repo\\OA.Repo.csproj": {
+    "C:\\Users\\PGU\\RiderProjects\\FitnessClub\\OA.Repo\\OA.Repo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\EF_301\\Stas\\FitnessCenter\\OA.Repo\\OA.Repo.csproj",
+        "projectUniqueName": "C:\\Users\\PGU\\RiderProjects\\FitnessClub\\OA.Repo\\OA.Repo.csproj",
         "projectName": "OA.Repo",
-        "projectPath": "E:\\EF_301\\Stas\\FitnessCenter\\OA.Repo\\OA.Repo.csproj",
-        "packagesPath": "C:\\Users\\Stas\\.nuget\\packages\\",
-        "outputPath": "E:\\EF_301\\Stas\\FitnessCenter\\OA.Repo\\obj\\",
+        "projectPath": "C:\\Users\\PGU\\RiderProjects\\FitnessClub\\OA.Repo\\OA.Repo.csproj",
+        "packagesPath": "C:\\Users\\PGU\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PGU\\RiderProjects\\FitnessClub\\OA.Repo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Stas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PGU\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -61,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\PGU\\.dotnet\\sdk\\8.0.414/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

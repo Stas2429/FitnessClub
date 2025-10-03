@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\EF_301\\Stas\\FitnessCenter\\FitnessCenter.Infrastructure\\FitnessCenter.Infrastructure.csproj": {}
+    "C:\\Users\\PGU\\RiderProjects\\FitnessClub\\FitnessCenter.Infrastructure\\FitnessCenter.Infrastructure.csproj": {}
   },
   "projects": {
-    "E:\\EF_301\\Stas\\FitnessCenter\\FitnessCenter.Data\\FitnessCenter.Data.csproj": {
+    "C:\\Users\\PGU\\RiderProjects\\FitnessClub\\FitnessCenter.Data\\FitnessCenter.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\EF_301\\Stas\\FitnessCenter\\FitnessCenter.Data\\FitnessCenter.Data.csproj",
+        "projectUniqueName": "C:\\Users\\PGU\\RiderProjects\\FitnessClub\\FitnessCenter.Data\\FitnessCenter.Data.csproj",
         "projectName": "FitnessCenter.Data",
-        "projectPath": "E:\\EF_301\\Stas\\FitnessCenter\\FitnessCenter.Data\\FitnessCenter.Data.csproj",
-        "packagesPath": "C:\\Users\\Stas\\.nuget\\packages\\",
-        "outputPath": "E:\\EF_301\\Stas\\FitnessCenter\\FitnessCenter.Data\\obj\\",
+        "projectPath": "C:\\Users\\PGU\\RiderProjects\\FitnessClub\\FitnessCenter.Data\\FitnessCenter.Data.csproj",
+        "packagesPath": "C:\\Users\\PGU\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PGU\\RiderProjects\\FitnessClub\\FitnessCenter.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Stas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PGU\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -67,21 +66,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\PGU\\.dotnet\\sdk\\8.0.414/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\EF_301\\Stas\\FitnessCenter\\FitnessCenter.Infrastructure\\FitnessCenter.Infrastructure.csproj": {
+    "C:\\Users\\PGU\\RiderProjects\\FitnessClub\\FitnessCenter.Infrastructure\\FitnessCenter.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\EF_301\\Stas\\FitnessCenter\\FitnessCenter.Infrastructure\\FitnessCenter.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\PGU\\RiderProjects\\FitnessClub\\FitnessCenter.Infrastructure\\FitnessCenter.Infrastructure.csproj",
         "projectName": "FitnessCenter.Infrastructure",
-        "projectPath": "E:\\EF_301\\Stas\\FitnessCenter\\FitnessCenter.Infrastructure\\FitnessCenter.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\Stas\\.nuget\\packages\\",
-        "outputPath": "E:\\EF_301\\Stas\\FitnessCenter\\FitnessCenter.Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\PGU\\RiderProjects\\FitnessClub\\FitnessCenter.Infrastructure\\FitnessCenter.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\PGU\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PGU\\RiderProjects\\FitnessClub\\FitnessCenter.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Stas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PGU\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -89,18 +88,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\EF_301\\Stas\\FitnessCenter\\FitnessCenter.Data\\FitnessCenter.Data.csproj": {
-                "projectPath": "E:\\EF_301\\Stas\\FitnessCenter\\FitnessCenter.Data\\FitnessCenter.Data.csproj"
+              "C:\\Users\\PGU\\RiderProjects\\FitnessClub\\FitnessCenter.Data\\FitnessCenter.Data.csproj": {
+                "projectPath": "C:\\Users\\PGU\\RiderProjects\\FitnessClub\\FitnessCenter.Data\\FitnessCenter.Data.csproj"
               },
-              "E:\\EF_301\\Stas\\FitnessCenter\\FitnessCenter.Service\\FitnessCenter.Service.csproj": {
-                "projectPath": "E:\\EF_301\\Stas\\FitnessCenter\\FitnessCenter.Service\\FitnessCenter.Service.csproj"
+              "C:\\Users\\PGU\\RiderProjects\\FitnessClub\\FitnessCenter.Service\\FitnessCenter.Service.csproj": {
+                "projectPath": "C:\\Users\\PGU\\RiderProjects\\FitnessClub\\FitnessCenter.Service\\FitnessCenter.Service.csproj"
               }
             }
           }
@@ -151,21 +149,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\PGU\\.dotnet\\sdk\\8.0.414/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\EF_301\\Stas\\FitnessCenter\\FitnessCenter.Service\\FitnessCenter.Service.csproj": {
+    "C:\\Users\\PGU\\RiderProjects\\FitnessClub\\FitnessCenter.Service\\FitnessCenter.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\EF_301\\Stas\\FitnessCenter\\FitnessCenter.Service\\FitnessCenter.Service.csproj",
+        "projectUniqueName": "C:\\Users\\PGU\\RiderProjects\\FitnessClub\\FitnessCenter.Service\\FitnessCenter.Service.csproj",
         "projectName": "FitnessCenter.Service",
-        "projectPath": "E:\\EF_301\\Stas\\FitnessCenter\\FitnessCenter.Service\\FitnessCenter.Service.csproj",
-        "packagesPath": "C:\\Users\\Stas\\.nuget\\packages\\",
-        "outputPath": "E:\\EF_301\\Stas\\FitnessCenter\\FitnessCenter.Service\\obj\\",
+        "projectPath": "C:\\Users\\PGU\\RiderProjects\\FitnessClub\\FitnessCenter.Service\\FitnessCenter.Service.csproj",
+        "packagesPath": "C:\\Users\\PGU\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PGU\\RiderProjects\\FitnessClub\\FitnessCenter.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Stas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PGU\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -173,15 +171,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\EF_301\\Stas\\FitnessCenter\\FitnessCenter.Data\\FitnessCenter.Data.csproj": {
-                "projectPath": "E:\\EF_301\\Stas\\FitnessCenter\\FitnessCenter.Data\\FitnessCenter.Data.csproj"
+              "C:\\Users\\PGU\\RiderProjects\\FitnessClub\\FitnessCenter.Data\\FitnessCenter.Data.csproj": {
+                "projectPath": "C:\\Users\\PGU\\RiderProjects\\FitnessClub\\FitnessCenter.Data\\FitnessCenter.Data.csproj"
               }
             }
           }
@@ -222,7 +219,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\PGU\\.dotnet\\sdk\\8.0.414/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
